@@ -1,0 +1,25 @@
+html,
+body {
+    position: fixed;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    left: 40vw;
+}
+
+.card {
+    margin: auto;
+    max-width: 400px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-center .btn {
+    margin: 10px;
+}
